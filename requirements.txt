@@ -1,0 +1,8 @@
+# screenplay_agent dependencies
+# IMPORTANT: keep this file pure ASCII. Non-ASCII comments break pip
+# parsing on Linux (Streamlit Cloud), see DEPLOY.md for details.
+streamlit>=1.30,<2.0
+pandas>=2.0,<3.0
+openpyxl>=3.0
+requests>=2.28
+pydantic>=1.10
